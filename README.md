@@ -26,10 +26,9 @@ With a **97% final training accuracy**, this model achieves impressive performan
 - **Dataset Size**: 35,000 images divided into training and testing datasets.
 - **Final Training Accuracy**: **97%**
 - **Validation Metrics**:  
-  - **Precision**: *add value here*  
-  - **Recall**: *add value here*  
-  - **F1-Score**: *add value here*
-
+  - **Precision**: 68.34%
+  - **F1-Score**: 68.36%
+  - **Accuracy**: 68.65%
 ### Model Performance
 
 | Metric        | Value  |
