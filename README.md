@@ -35,9 +35,9 @@ With a **97% final training accuracy**, this model achieves impressive performan
 | Metric        | Value  |
 |---------------|--------|
 | Training Accuracy | 97.75%   |
-| Validation Accuracy | 68.65 |
-| Validation Precision     | 68.34 |
-| Validation F1-Score      | 68.36 |
+| Validation Accuracy | 68.65% |
+| Validation Precision     | 68.34% |
+| Validation F1-Score      | 68.36% |
 
 ![Figure_1](https://github.com/user-attachments/assets/929e37ab-db2b-4f37-b861-4c111047e784)
 
