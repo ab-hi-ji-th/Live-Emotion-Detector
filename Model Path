@@ -1,0 +1,7 @@
+The model is larger than 300Mb and hence I had to host it on HuggingFace. Given below is the link for you to access the final trained model and use as per your discretion. 
+
+https://huggingface.co/abhijithpv32/Emotion_Detector
+
+Download the final_model.pth because it contains the final trained weights of my Vision Transformer (ViT) model. 
+This is the optimized model ready for inference and should be sufficient for anyone to use the emotion detection system without needing intermediate checkpoints.
+
