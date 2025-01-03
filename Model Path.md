@@ -10,7 +10,7 @@ The trained model exceeds 300MB in size and is hosted on HuggingFace to ensure s
 ### **File to Download**  
 **`final_model.pth`**  
 
-This file contains the fully trained weights of the Vision Transformer (ViT) model optimized for emotion detection. It is ready for inference and eliminates the need for additional training or intermediate checkpoints.
+This file contains the fully trained weights of the Vision Transformer (ViT) model optimized for emotion detection. It is ready for inference and eliminates the need for additional training or intermediate checkpoints. On opening the link, navigate to the "Files and versions" tab and select the required path.
 
 ### **Key Features**  
 - **Optimized for Inference**: The model is pre-trained and fine-tuned, ensuring high performance without further adjustments.  
