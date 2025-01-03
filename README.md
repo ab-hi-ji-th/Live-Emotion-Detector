@@ -84,10 +84,14 @@ With a **97% final training accuracy**, this model achieves impressive performan
 ## Results 📸
 
 ### Screenshots:
-*(Insert a screenshot of the final app interface here)*
+![Screenshot (4)](https://github.com/user-attachments/assets/57520653-7b75-4b09-a229-9595f7a32fbc)
 
 ### Example Images:
-*(Include images of you using the emotion detector here)*
+![Screenshot (8)](https://github.com/user-attachments/assets/4660fa17-f4cb-4c61-80f5-2f80be2c1ee2)
+![Screenshot (5)](https://github.com/user-attachments/assets/b38f4005-dd79-467c-be67-325626030cb8)
+![Screenshot (7)](https://github.com/user-attachments/assets/6a012942-49dc-443f-bedf-af1eebde6914)
+
+![Screenshot (6)](https://github.com/user-attachments/assets/8719aaf3-8c40-4571-8a0e-cce973641380)
 
 ---
 
