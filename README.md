@@ -37,16 +37,6 @@ With a **97% final training accuracy**, this model achieves impressive performan
 | Validation Precision     | 68.34% |
 | Validation F1-Score      | 68.36% |
 
-![Screenshot 2025-06-04 002827](https://github.com/user-attachments/assets/2f978d42-b729-49f4-9cf1-b70d73e379f1)
-
-
-![Screenshot 2025-06-04 002906](https://github.com/user-attachments/assets/79de29c7-6e47-4382-acd8-dd73518030c6)
-
-
-![Screenshot 2025-06-04 002927](https://github.com/user-attachments/assets/f7946074-f5a3-4066-afe1-4903c3f3a00f)
-
-
-![Screenshot 2025-06-04 002959](https://github.com/user-attachments/assets/6efd703b-54bb-499d-bcf8-7fcd0eef714b)
 
 ---
 
