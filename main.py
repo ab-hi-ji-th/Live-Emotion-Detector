@@ -4,7 +4,7 @@ import torch
 from torch import nn, optim
 from torch.utils.data import DataLoader, Dataset
 from torchvision import transforms
-from PIL import Image
+from PIL import Image 
 from transformers import ViTForImageClassification
 import matplotlib.pyplot as plt
 from sklearn.metrics import precision_score, f1_score
