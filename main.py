@@ -2,7 +2,7 @@ import os
 from tqdm import tqdm
 import torch
 from torch import nn, optim
-from torch.utils.data import DataLoader, Dataset
+from torch.utils.data import DataLoader, Dataset 
 from torchvision import transforms
 from PIL import Image 
 from transformers import ViTForImageClassification
