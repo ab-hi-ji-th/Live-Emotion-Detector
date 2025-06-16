@@ -1,5 +1,5 @@
 import cv2
-import torch
+import torch 
 from transformers import ViTForImageClassification, ViTFeatureExtractor
 
 model_path = "C:\\Users\\Abhijith lappy\\PycharmProjects\\Emotion Detector Live\\vit_emotion_model.pth"
