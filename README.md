@@ -8,7 +8,7 @@
 With a **97% final training accuracy**, this model achieves impressive performance, making it a perfect tool for practical applications in AI-based emotion analysis.
 
 ---
-
+ 
 ## Key Features 🚀
 
 - **Real-Time Emotion Detection**: Processes video feed live to identify emotions.
