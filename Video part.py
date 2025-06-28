@@ -4,7 +4,7 @@ from transformers import ViTForImageClassification, ViTFeatureExtractor
 
 model_path = "C:\\Users\\Abhijith lappy\\PycharmProjects\\Emotion Detector Live\\vit_emotion_model.pth"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
+ 
 model = ViTForImageClassification.from_pretrained("google/vit-base-patch16-224-in21k", num_labels=7)
 model.load_state_dict(torch.load(model_path))
 model.to(device)
