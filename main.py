@@ -1,5 +1,5 @@
 import os 
-from tqdm import tqdm
+from tqdm import tqdm 
 import torch
 from torch import nn, optim
 from torch.utils.data import DataLoader, Dataset 
