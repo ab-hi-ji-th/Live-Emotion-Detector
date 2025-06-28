@@ -16,7 +16,7 @@ feature_extractor = ViTFeatureExtractor.from_pretrained("google/vit-base-patch16
 
 def preprocess_frame(face_region):
     face_rgb = cv2.cvtColor(face_region, cv2.COLOR_BGR2RGB)
-    resized_face = cv2.resize(face_rgb, (224, 224))
+    resized_face = cv2.resize(face_rgb, (224, 224)) 
     inputs = feature_extractor(images=resized_face, return_tensors="pt")
     inputs = {k: v.to(device) for k, v in inputs.items()} 
     return inputs
